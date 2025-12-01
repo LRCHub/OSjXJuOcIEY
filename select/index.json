@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Kimitte",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2025-12-01T07:47:40.770881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anoko Complex (=LOVE Zenkoku Tour 2022 Doukanngaetemo Kimitte ikorabu no koto sukijyan)",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/01_Anoko_Complex_(=LOVE_Zenkoku_Tour_2022_Doukanngaetemo_Kimitte_ikorabu_no_koto_su_=LOVE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Poison Girl (=LOVE Zenkoku Tour 2022 Doukanngaetemo Kimitte ikorabu no koto sukijyan)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_Poison_Girl_(=LOVE_Zenkoku_Tour_2022_Doukanngaetemo_Kimitte_ikorabu_no_koto_suki_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ohimesama ni shiteyo (=LOVE Zenkoku Tour 2022 Doukanngaetemo Kimitte ikorabu no koto sukijyan)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/03_ohimesama_ni_shiteyo_(=LOVE_Zenkoku_Tour_2022_Doukanngaetemo_Kimitte_ikorabu_no__=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sagase Diamondlily (=LOVE Zenkoku Tour 2022 Doukanngaetemo Kimitte ikorabu no koto sukijyan)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/04_Sagase_Diamondlily_(=LOVE_Zenkoku_Tour_2022_Doukanngaetemo_Kimitte_ikorabu_no_ko_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "shukipi (=LOVE Zenkoku Tour 2022 Doukanngaetemo Kimitte ikorabu no koto sukijyan)",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/05_shukipi_(=LOVE_Zenkoku_Tour_2022_Doukanngaetemo_Kimitte_ikorabu_no_koto_sukijyan_=LOVE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君って",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_君って_西野_カナ.txt"
+    }
+  ]
+}
